@@ -128,10 +128,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\src\FreshMvvm\FreshMvvm.csproj">
-      <Project>{acba1111-2c39-4126-b60a-51ee9d0c734b}</Project>
-      <Name>FreshMvvm</Name>
-    </ProjectReference>
     <ProjectReference Include="..\FreshMvvmSampleApp\FreshMvvmSampleApp.csproj">
       <Project>{bab97a09-e24f-482d-925d-b2d1f9ab81d2}</Project>
       <Name>FreshMvvmSampleApp</Name>
